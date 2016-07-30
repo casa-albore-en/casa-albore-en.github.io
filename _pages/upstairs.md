@@ -178,7 +178,6 @@ Please click on a photo to visit the gite:
   * Hoover
   * Iron + ironing board
 * Outside (on other side of house)
-  * Single private parking space
   * Small garden with table + chairs
 * Other
   * Children’s games. Books in English.
@@ -187,6 +186,7 @@ Please click on a photo to visit the gite:
   * Internet access in the summer or upon prior arrangement.
   * Total surface area: 75m² (over 800 sq. ft)
   * No smoking
+  * Parking in the hamlet, and reserved space a little further down
 
 ## Visitors' book
 
