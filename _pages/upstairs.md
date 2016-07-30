@@ -178,7 +178,7 @@ Please click on a photo to visit the gite:
   * Hoover
   * Iron + ironing board
 * Outside (on other side of house)
-  * Small garden with table + chairs
+  * Small garden with table + chairs, orange tree, lemon tree
 * Other
   * Children’s games. Books in English.
   * Ceiling fan in living room, column fans in each bedroom
