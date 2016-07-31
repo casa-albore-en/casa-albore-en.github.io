@@ -7,6 +7,8 @@ header_text: Upstairs Gite
 gallery_livre:
   - url: livret-haut/web/cover.jpg
     image_path: livret-haut/th/cover.jpg
+  - url: livret-haut/web/33.jpg
+    image_path: livret-haut/th/33.jpg
   - url: livret-haut/web/32.jpg
     image_path: livret-haut/th/32.jpg
   - url: livret-haut/web/31.jpg
