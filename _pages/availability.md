@@ -11,7 +11,7 @@ calendar: true
 
 |                            |           | **June/Sept** | **July-Aug** | **Vacations** | **Low Season** |
 |--------------|------|----------:|-------------:|-------------:|--------------:|
-| **[Downstairs Gite]({{ base_path }}/downstairs)**   | 6-7 pl | 550             | 800                   | 500                  | 400                   |
+| **[Downstairs Gite]({{ base_path }}/downstairs)**   | 6-7 pl | 550             | 850                   | 500                  | 400                   |
 | **[Upstairs Gite]({{ base_path }}/upstairs)** | 5 pl    | 450             | 650                   | 400                  | 350                   |
 
 All prices in Euros and per week. July and August weekly rental
