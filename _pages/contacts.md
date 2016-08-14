@@ -20,22 +20,24 @@ questions you may have...
 You can check the house's [availability]({{ base_path }}/availability/), or see the
 [directions]({{ base_path }}/access/) to the house.
 
-## Casa Albore sur les autres sites
+## Casa Albore on rental web-sites
 
-Après votre séjour chez nous, nous serions ravis si vous laissiez vos appreciations sur l'un des sites
-listés, ça peut aider pour les locations à venir:
+After your stay with us, we would be delighted if you can leave an
+evaluation on one of the web-sites below, it can help encourage others
+to come to our gite:
 
-* Gite du bas
+* Downstairs gite
   * [holidaylettings.fr](https://www.holidaylettings.fr/location-vacances/cagnano/6533766)
   * [housetrip.fr](https://www.housetrip.fr/recherche-proprietes/cagnano/536679-6533766/)
   * [homelidays.com](https://www.homelidays.com/hebergement/p1309384a?flspusage=fl)
   * [airbnb.fr](https://www.airbnb.fr/rooms/1015977)
   * [trocmaison.com](https://www.trocmaison.com/fr/listing/353567)
-* Gite du haut
+* Upstairs gite
   * [holidaylettings.fr](https://www.holidaylettings.fr/location-vacances/cagnano/6533835) 
   * [housetrip.fr](https://www.housetrip.fr/recherche-proprietes/cagnano/536679-6533835/)
   * [homelidays.com](https://www.homelidays.com/hebergement/p6126084?flspusage=fl)
   * [airbnb.fr](https://www.airbnb.fr/rooms/924427)
 
-Les sites prennent une commission... la prochaine fois vous pourriez louer directement - c'est moins cher pour vous et pour nous!
+These websites take a commission for each rental - next time you rent, consider
+contacint us directly, it's cheaper for you and for us!
 
