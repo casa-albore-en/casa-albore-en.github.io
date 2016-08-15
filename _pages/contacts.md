@@ -38,6 +38,6 @@ to come to our gite:
   * [homelidays.com](https://www.homelidays.com/hebergement/p6126084?flspusage=fl)
   * [airbnb.fr](https://www.airbnb.fr/rooms/924427)
 
-These websites take a commission for each rental - next time you rent, consider
-contacint us directly, it's cheaper for you and for us!
+These websites take a commission for each rental - renting with us is
+cheaper for both sides!
 
