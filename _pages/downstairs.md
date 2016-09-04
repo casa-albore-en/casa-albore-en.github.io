@@ -79,8 +79,8 @@ gallery:
     image_path: gite-du-bas/th/view of terrace.JPG
     alt: "view of terrace"
     title: "view of terrace"
-  - url: gite-du-bas/web/entrance with garden.JPG
-    image_path: gite-du-bas/th/entrance with garden.JPG
+  - url: gite-du-bas/web/garden.JPG
+    image_path: gite-du-bas/th/garden.JPG
     alt: "entrance with garden"
     title: "entrance with garden"
   - url: gite-du-bas/web/entrance hall.jpg
