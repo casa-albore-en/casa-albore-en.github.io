@@ -9,7 +9,7 @@ calendar: true
 
 ## Pricing
 
-|                            |           | **June/Sept** | **July-Aug** | **Vacations** | **Low Season** |
+|                            |           | **June/Sept** | **July-Aug** | **Easter** | **Low Season** |
 |--------------|------|----------:|-------------:|-------------:|--------------:|
 | **[Downstairs Gite]({{ base_path }}/downstairs)**   | 6-7 pl | 550             | 850                   | 500                  | 400                   |
 | **[Upstairs Gite]({{ base_path }}/upstairs)** | 5 pl    | 450             | 650                   | 400                  | 350                   |
