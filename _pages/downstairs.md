@@ -147,6 +147,14 @@ gallery:
     image_path: gite-du-bas/th/salle d'eau.JPG
     alt: "bathroom"
     title: "bathroom"
+  - url: gite-du-bas/web/rdc.jpg
+    image_path: gite-du-bas/th/rdc.jpg
+    alt: "Groundfloor floor-plan"
+    title: "Groundfloor floor-plan"
+  - url: gite-du-bas/web/etage.jpg
+    image_path: gite-du-bas/th/etage.jpg
+    alt: "Upstairs floor-plan"
+    title: "Upstairs floor-plan"
   - url: gite-du-bas/web/village.JPG
     image_path: gite-du-bas/th/village.JPG
     alt: "Suare village"

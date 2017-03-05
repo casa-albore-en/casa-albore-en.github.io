@@ -125,6 +125,14 @@ gallery:
     image_path: gite-du-haut/th/bathroom with igloo shower.JPG
     alt: "bathroom with igloo shower"
     title: "bathroom with igloo shower"
+  - url: gite-du-haut/web/rdc.jpg
+    image_path: gite-du-haut/th/rdc.jpg
+    alt: "Groundfloor plan with upstairs gite's entrance"
+    title: "Groundfloor plan with upstairs gite's entrance"
+  - url: gite-du-haut/web/etage.jpg
+    image_path: gite-du-haut/th/etage.jpg
+    alt: "Upstairs floorplan"
+    title: "Upstairs floorplan"
   - url: gite-du-haut/web/village.JPG
     image_path: gite-du-haut/th/village.JPG
     alt: "Suare village"
