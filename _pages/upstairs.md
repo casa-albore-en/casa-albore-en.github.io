@@ -7,6 +7,12 @@ header_text: Upstairs Gite
 gallery_livre:
   - url: livret-haut/web/cover.jpg
     image_path: livret-haut/th/cover.jpg
+  - url: livret-haut/web/36.jpg
+    image_path: livret-haut/th/36.jpg
+  - url: livret-haut/web/35.jpg
+    image_path: livret-haut/th/35.jpg
+  - url: livret-haut/web/34.jpg
+    image_path: livret-haut/th/34.jpg
   - url: livret-haut/web/33.jpg
     image_path: livret-haut/th/33.jpg
   - url: livret-haut/web/32.jpg
@@ -205,7 +211,7 @@ Please feel free to browse the gite's visitors book:
 {% include base_path %}
 
 {% include gallery id="gallery_livre" %}
-  
+
 ## Availability and pricing
 
 Please see the [availability and pricing]({{ base_path }}/availability) for this gite or [contact us]({{ base_path }}/contacts/) with any questions.

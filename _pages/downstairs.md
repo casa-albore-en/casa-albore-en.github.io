@@ -7,6 +7,18 @@ header_text: Downstairs Gite
 gallery_livre:
   - url: livret-bas/web/cover.jpg
     image_path: livret-bas/th/cover.jpg
+  - url: livret-bas/web/36.jpg
+    image_path: livret-bas/th/36.jpg
+  - url: livret-bas/web/35.jpg
+    image_path: livret-bas/th/35.jpg
+  - url: livret-bas/web/34.jpg
+    image_path: livret-bas/th/34.jpg
+  - url: livret-bas/web/33.jpg
+    image_path: livret-bas/th/33.jpg
+  - url: livret-bas/web/32.jpg
+    image_path: livret-bas/th/32.jpg
+  - url: livret-bas/web/31.jpg
+    image_path: livret-bas/th/31.jpg
   - url: livret-bas/web/30.jpg
     image_path: livret-bas/th/30.jpg
   - url: livret-bas/web/29.jpg
@@ -69,7 +81,7 @@ gallery_livre:
     image_path: livret-bas/th/1.jpg
   - url: livret-bas/web/0.jpg
     image_path: livret-bas/th/0.jpg
-  
+
 gallery:
   - url: gite-du-bas/web/view of house.JPG
     image_path: gite-du-bas/th/view of house.JPG
@@ -112,9 +124,9 @@ gallery:
     alt: "terrace with barbecue"
     title: "terrace with barbecue"
   - url: gite-du-bas/web/sunrise from terrace.JPG
-    image_path: gite-du-bas/th/sunrise from terrace.JPG 
-    alt: "sunrise from the terrace" 
-    title: "sunrise from the terrace" 
+    image_path: gite-du-bas/th/sunrise from terrace.JPG
+    alt: "sunrise from the terrace"
+    title: "sunrise from the terrace"
   - url: gite-du-bas/web/sitting room.jpg
     image_path: gite-du-bas/th/sitting room.jpg
     alt: "sitting room"
@@ -171,7 +183,7 @@ gallery:
     image_path: gite-du-bas/th/Tamarone beach.jpg
     alt: "Tamarone beach"
     title: "Tamarone beach"
-  
+
 ---
 
 {% include toc %}
@@ -247,4 +259,3 @@ You may also wish to see the [upstairs gite]({{ base_path }}/upstairs). The two 
 ## Cap Corsica
 
 To see more of the region, please visit our page on [Cap Corsica]({{ base_path }}/region).
-
