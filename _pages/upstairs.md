@@ -7,6 +7,10 @@ header_text: Upstairs Gite
 gallery_livre:
   - url: livret-haut/web/cover.jpg
     image_path: livret-haut/th/cover.jpg
+  - url: livret-haut/web/38.jpg
+    image_path: livret-haut/th/38.jpg
+  - url: livret-haut/web/37.jpg
+    image_path: livret-haut/th/37.jpg
   - url: livret-haut/web/36.jpg
     image_path: livret-haut/th/36.jpg
   - url: livret-haut/web/35.jpg
@@ -202,7 +206,7 @@ Please click on a photo to visit the gite:
   * Internet access in the summer or upon prior arrangement.
   * Total surface area: 75m² (over 800 sq. ft)
   * No smoking
-  * Parking in the hamlet, and reserved space a little further down
+  * Parking in the hamlet, 50 yards away
 
 ## Visitors' book
 
