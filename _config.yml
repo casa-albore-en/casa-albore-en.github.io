@@ -11,7 +11,7 @@ title                    : "Casa Albore"
 title_separator          : "-"
 name                     : "Nick Stephen"
 description              : "Gite de charme"
-url                      : http://en.casa.albore.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://en.casa.albore.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : casa-albore/casa-albore
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,10 +81,10 @@ google_ad_slot           :
 
 # defaults for front matter
 defaults:
-  - scope: 
+  - scope:
       path: ""
       type: pages
-    values: 
+    values:
       layout: single
       author_profile: false
       comments: true
@@ -92,16 +92,16 @@ defaults:
       sidebar:
         nav: "links"
 
-  - scope: 
+  - scope:
       path: ""
       type: splash
-    values: 
+    values:
       share: true
 
 # Site Author
 author:
   name             : "Nick Stephen"
-  avatar           : 
+  avatar           :
   bio              : ""
   location         : "The french alps"
   email            :
