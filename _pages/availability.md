@@ -16,7 +16,7 @@ calendar: true
 
 All prices in Euros and per week. July and August weekly rental
 Saturday-Saturday. Rental minimum 4 nights outside of
-July/August.
+vacation periods.
 
 The guest-books can be seen for each gite: [Gite du Bas]({{ site.baseurl }}/downstairs#livre-dor) ou [Gite du Haut]({{ site.baseurl }}/upstairs#livre-dor)
 
