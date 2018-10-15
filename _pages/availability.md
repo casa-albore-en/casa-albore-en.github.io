@@ -9,10 +9,10 @@ calendar: true
 
 ## Pricing
 
-|                            |           | **June/Sept** | **July-Aug** | **Easter** | **Low Season** |
+|                            |           | **June/Sept** | **July-Aug** | **Low Season** |
 |--------------|------|----------:|-------------:|-------------:|--------------:|
-| **[Downstairs Gite]({{ base_path }}/downstairs)**   | 6-7 pl | 600             | 900                   | 550                  | 450                   |
-| **[Upstairs Gite]({{ base_path }}/upstairs)** | 5 pl    | 500             | 700                   | 450                  | 400                   |
+| **[Downstairs Gite]({{ base_path }}/downstairs)**   | 6-7 pl | 600             | 900              | 450                   |
+| **[Upstairs Gite]({{ base_path }}/upstairs)** | 5 pl    | 500             | 700                   | 400                   |
 
 All prices in Euros and per week, linen included. July and August weekly rental
 Saturday-Saturday. Rental minimum 4 nights outside of
