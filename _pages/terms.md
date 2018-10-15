@@ -25,10 +25,7 @@ headcount.
 Casa Albore is a non-smoking house. You can smoke on the ground-floor
 terrace or outside.
 
-Electricity, gas, heating and wood for the winter are included in the
-price.
-
-Linen including sheets and bath-towels can be rented for 10€ per person.
+Linen including sheets, bath-towels and teatowel are included.
 
 A cleaning service is offered at a cost of 50€ / gite.
 
