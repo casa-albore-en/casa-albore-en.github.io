@@ -14,9 +14,9 @@ calendar: true
 | **[Downstairs Gite]({{ base_path }}/downstairs)**   | 6-7 pl | 600             | 900              | 450                   |
 | **[Upstairs Gite]({{ base_path }}/upstairs)** | 5 pl    | 500             | 700                   | 400                   |
 
-All prices in Euros and per week, linen included. July and August weekly rental
-Saturday-Saturday. Rental minimum 4 nights outside of
-vacation periods.
+All prices in Euros and per week, bed linen and towels included.
+July and August weekly rental from Saturday to Saturday.
+Other periods minimum 4 nights.
 
 The guest-books can be seen for each gite: [Gite du Bas]({{ site.baseurl }}/downstairs#livre-dor) ou [Gite du Haut]({{ site.baseurl }}/upstairs#livre-dor)
 

@@ -39,9 +39,7 @@ feature_row:
 
 
 Gite de Casa Albore, Suare, 20228 Cagnano -
-email: <a href="mailto:casa.albore@free.fr">casa.albore@free.fr</a> - 
+email: <a href="mailto:casa.albore@free.fr">casa.albore@free.fr</a> -
 tel.
 <a href="tel:+33679262292">06.79.26.22.92</a> -
 <a href="tel:+33495574163">06.71.60.69.61</a>
-
-
