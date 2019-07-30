@@ -191,8 +191,8 @@ Please click on a photo to visit the gite:
   * Oven, gas hobs, microwave
   * Coffee machine, toaster, kettle, ...
 * Bedrooms
-  * Double bedroom with queen-size bed
-  * Single bedroom with 120cm bed
+  * Double bedroom with 140cm bed
+  * Single/double bedroom with 140cm bed
   * Twin bedroom with two 90cm beds
   * Travel cot available
 * Bathroom
