@@ -179,6 +179,13 @@ people. It has a large living area with a ceiling fan for the summer
 and a wood burning stove for the winter, and an open kitchen, a total
 surface area of 75m2.
 
+## Video
+
+<video width="320" height="180" controls>
+  <source src="../video/casa-albore-gite-du-haut.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Gallery
 
 Please click on a photo to visit the gite:
