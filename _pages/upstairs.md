@@ -7,6 +7,10 @@ header_text: Upstairs Gite
 gallery_livre:
   - url: livret-haut/web/cover.jpg
     image_path: livret-haut/th/cover.jpg
+  - url: livret-haut/web/43.jpg
+    image_path: livret-haut/th/43.jpg
+  - url: livret-haut/web/42.jpg
+    image_path: livret-haut/th/42.jpg
   - url: livret-haut/web/41.jpg
     image_path: livret-haut/th/41.jpg
   - url: livret-haut/web/40.jpg
@@ -125,10 +129,10 @@ gallery:
     image_path: gite-du-haut/th/bedroom with 140cm bed.JPG
     alt: "bedroom with 140cm bed"
     title: "bedroom with 140cm bed"
-  - url: gite-du-haut/web/bedroom with 120cm bed.JPG
-    image_path: gite-du-haut/th/bedroom with 120cm bed.JPG
-    alt: "bedroom with 120cm bed"
-    title: "bedroom with 120cm bed"
+  - url: gite-du-haut/web/bedroom2 with 140cm bed.JPG
+    image_path: gite-du-haut/th/bedroom2 with 140cm bed.JPG
+    alt: "second bedroom with 140cm bed"
+    title: "second bedroom with 140cm bed"
   - url: gite-du-haut/web/twin bedroom.JPG
     image_path: gite-du-haut/th/twin bedroom.JPG
     alt: "twin bedroom"
